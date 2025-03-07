@@ -1,0 +1,11 @@
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\deploymentmodel.exe
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\deploymentmodel.dll
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\deploymentmodel.deps.json
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\deploymentmodel.runtimeconfig.json
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\deploymentmodel.pdb
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vara.DESKTOP-OIPRRSN\source\mywebapi_projects\deploymentmodel\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

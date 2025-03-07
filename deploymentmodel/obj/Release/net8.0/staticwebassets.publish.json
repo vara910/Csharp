@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6HtKVIExLnKTLpjO7sV4vx20/NpDI3Oz5SiHyLNs/Lo=",
+  "Source": "deploymentmodel",
+  "BasePath": "_content/deploymentmodel",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4s6hLGG8EOYmcZIZNEl2Kg3c35ZWLYG9P4sRzYs0skQ=",
+  "Source": "deploymentmodel",
+  "BasePath": "_content/deploymentmodel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

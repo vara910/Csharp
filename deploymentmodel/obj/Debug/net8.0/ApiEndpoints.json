@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "deploymentmodel.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  },
+  {
+    "ContainingType": "deploymentmodel.Controllers.WeatherForecastController",
+    "Method": "Post",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "weatherForecast",
+        "Type": "deploymentmodel.WeatherForecast",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "deploymentmodel.WeatherForecast",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "PostWeatherForecast"
+  }
+]

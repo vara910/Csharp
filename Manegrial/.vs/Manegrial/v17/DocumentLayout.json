@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|c:\\users\\vara.desktop-oiprrsn\\source\\mywebapi_projects\\manegrial\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|c:\\users\\vara.desktop-oiprrsn\\source\\mywebapi_projects\\manegrial\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|c:\\users\\vara.desktop-oiprrsn\\source\\mywebapi_projects\\manegrial\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|solutionrelative:model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|c:\\users\\vara.desktop-oiprrsn\\source\\mywebapi_projects\\manegrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|c:\\users\\vara.desktop-oiprrsn\\source\\mywebapi_projects\\manegrial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E06471CB-2C8A-4804-8E09-6F9F4755787E}|Manegrial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T06:46:42.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:20:34.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:18:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:16:13.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Model\\Manager.cs",
+              "RelativeDocumentMoniker": "Model\\Manager.cs",
+              "ToolTip": "C:\\Users\\vara.DESKTOP-OIPRRSN\\source\\mywebapi_projects\\Manegrial\\Model\\Manager.cs",
+              "RelativeToolTip": "Model\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:16:00.203Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

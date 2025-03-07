@@ -1,0 +1,6 @@
+@VaraPrasad_HostAddress = http://localhost:5249
+
+GET {{VaraPrasad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
