@@ -1,0 +1,14 @@
+D:\csharp\unittesting\Inheritence_Assessment\bin\Debug\net8.0\Inheritence_Assessment.exe
+D:\csharp\unittesting\Inheritence_Assessment\bin\Debug\net8.0\Inheritence_Assessment.deps.json
+D:\csharp\unittesting\Inheritence_Assessment\bin\Debug\net8.0\Inheritence_Assessment.runtimeconfig.json
+D:\csharp\unittesting\Inheritence_Assessment\bin\Debug\net8.0\Inheritence_Assessment.dll
+D:\csharp\unittesting\Inheritence_Assessment\bin\Debug\net8.0\Inheritence_Assessment.pdb
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.AssemblyInfoInputs.cache
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.AssemblyInfo.cs
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.csproj.CoreCompileInputs.cache
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.dll
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\refint\Inheritence_Assessment.dll
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.pdb
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\Inheritence_Assessment.genruntimeconfig.cache
+D:\csharp\unittesting\Inheritence_Assessment\obj\Debug\net8.0\ref\Inheritence_Assessment.dll

@@ -1,0 +1,14 @@
+D:\csharp\varaprasad\varaprasad\bin\Debug\net8.0\varaprasad.exe
+D:\csharp\varaprasad\varaprasad\bin\Debug\net8.0\varaprasad.deps.json
+D:\csharp\varaprasad\varaprasad\bin\Debug\net8.0\varaprasad.runtimeconfig.json
+D:\csharp\varaprasad\varaprasad\bin\Debug\net8.0\varaprasad.dll
+D:\csharp\varaprasad\varaprasad\bin\Debug\net8.0\varaprasad.pdb
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.AssemblyInfoInputs.cache
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.AssemblyInfo.cs
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.csproj.CoreCompileInputs.cache
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.dll
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\refint\varaprasad.dll
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.pdb
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\varaprasad.genruntimeconfig.cache
+D:\csharp\varaprasad\varaprasad\obj\Debug\net8.0\ref\varaprasad.dll
